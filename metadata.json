@@ -1,0 +1,8 @@
+{
+  "name": "AI Agent Firewall Testing Lab",
+  "description": "Dummy E-commerce Security Testing Platform with an AI Agent Firewall powered by n8n workflows, payment validation, email recipient firewalls, and human approval gates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
